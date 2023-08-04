@@ -1,7 +1,5 @@
 # About
-This is my project for Codecademy's Adopt-a-pet lesson in the Full Stack Engineer path. Note: The initial commit includes default files provided by Codecademy (www.codecademy.com). I have built upon this starting point to develop the project further.
-
-![Adopt a Pet](public/adopt-a-pet.png)
+This is my project for Codecademy's <strong>Adopt A Pet</strong> in the <strong>Full Stack Engineer</strong> path. **Note:** The initial commit includes default files provided by Codecademy (www.codecademy.com). I have built upon this starting point to develop the project further.
 
 # Project Description
 In this project, you will have the opportunity to practice using React Router to add client-side routing to a React Application. Specifically, you will be building a pet adoption website that allows users to view all the animals of a particular species and view the profiles of specific animals.
@@ -13,6 +11,8 @@ Objectives:
 * When the user searches for a pet in the search bar, they are redirected to the SearchPage, which uses the query parameter called name to filter pets by name.
 * When a user clicks a pet whose details are not available, they are redirected to a PetNotFoundPage.
 * From the PetNotFound page, users can click “Go Home” button that will take them to the root path page.
+
+![Adopt a Pet](public/adopt-a-pet.png)
 
 # Getting Started with Create React App
 
